@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v9aO1uAi/z2Xo3jVB6JKk9X29lq7JqgZrbRKLJMdRz3TjyFcRKBIblzMcBmjTqJn2bQV/T+u/nMIEJvdLTpoAQ==",
+  "dgSpecHash": "BBP7vDT2qht1FQeWeSRGhULEQ1y0TvUBCGmyhVmgyKdQetJFK9cOQwNN6HEYW6JihGchrysVuzhjiiqgsm5C1A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\CHIRIKICHH\\Documents\\Производственная практика\\Парван\\Макеев\\Индивидуальная\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "projectFilePath": "C:\\Users\\CHIRIKICHH\\Documents\\Производственная практика\\Парван\\GitTest\\Test\\WinFormsApp1\\WinFormsApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CHIRIKICHH\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\CHIRIKICHH\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

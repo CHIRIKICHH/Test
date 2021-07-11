@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CHIRIKICHH\\Documents\\Производственная практика\\Парван\\Макеев\\Индивидуальная\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj": {}
+    "C:\\Users\\CHIRIKICHH\\Documents\\Производственная практика\\Парван\\GitTest\\Test\\WinFormsApp1\\WinFormsApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CHIRIKICHH\\Documents\\Производственная практика\\Парван\\Макеев\\Индивидуальная\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj": {
+    "C:\\Users\\CHIRIKICHH\\Documents\\Производственная практика\\Парван\\GitTest\\Test\\WinFormsApp1\\WinFormsApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CHIRIKICHH\\Documents\\Производственная практика\\Парван\\Макеев\\Индивидуальная\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectUniqueName": "C:\\Users\\CHIRIKICHH\\Documents\\Производственная практика\\Парван\\GitTest\\Test\\WinFormsApp1\\WinFormsApp1.csproj",
         "projectName": "WinFormsApp1",
-        "projectPath": "C:\\Users\\CHIRIKICHH\\Documents\\Производственная практика\\Парван\\Макеев\\Индивидуальная\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectPath": "C:\\Users\\CHIRIKICHH\\Documents\\Производственная практика\\Парван\\GitTest\\Test\\WinFormsApp1\\WinFormsApp1.csproj",
         "packagesPath": "C:\\Users\\CHIRIKICHH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CHIRIKICHH\\Documents\\Производственная практика\\Парван\\Макеев\\Индивидуальная\\WinFormsApp1\\WinFormsApp1\\obj\\",
+        "outputPath": "C:\\Users\\CHIRIKICHH\\Documents\\Производственная практика\\Парван\\GitTest\\Test\\WinFormsApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
