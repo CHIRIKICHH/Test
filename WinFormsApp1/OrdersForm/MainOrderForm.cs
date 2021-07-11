@@ -25,6 +25,7 @@ namespace WinFormsApp1
             dataGridView1.Columns[5].Width = 100;
             dataGridView1.Columns[7].Width = 60;
 
+            new Form1().Show();
             MessageBox.Show("Абоба");
         }
 

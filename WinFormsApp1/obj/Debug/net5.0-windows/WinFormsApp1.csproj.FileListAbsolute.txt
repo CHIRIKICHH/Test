@@ -31,3 +31,4 @@ C:\Users\CHIRIKICHH\Documents\Производственная практика\
 C:\Users\CHIRIKICHH\Documents\Производственная практика\Парван\Макеев\Индивидуальная\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.ChangeWorkerForm.resources
 C:\Users\CHIRIKICHH\Documents\Производственная практика\Парван\Макеев\Индивидуальная\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.MainWorkerForm.resources
 C:\Users\CHIRIKICHH\Documents\Производственная практика\Парван\Макеев\Индивидуальная\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.NewWorkerForm.resources
+C:\Users\CHIRIKICHH\Documents\Производственная практика\Парван\Макеев\Индивидуальная\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
