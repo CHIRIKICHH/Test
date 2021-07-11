@@ -25,6 +25,7 @@ namespace WinFormsApp1
             dataGridView1.Columns[5].Width = 100;
             dataGridView1.Columns[7].Width = 60;
 
+            MessageBox.Show("Абоба");
         }
 
         //При загрузке формы чтение из БД
